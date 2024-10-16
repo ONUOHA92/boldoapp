@@ -7,7 +7,7 @@ import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import Image from "next/image";
 // importing company logo
 import CompLogo from "../../public/images/Logo.png";
-import sharpMenu from "../../Public/Images/MenuShape.png";
+import sharpMenu from "../../public/images/MenuShape.png";
 import HeroSvg from "../../public/images/hero-graphics.svg";
 import LightLogo from "../../public/images/lightbolde.png";
 import PrestoLight from "../../public/images/prestoLight.png";

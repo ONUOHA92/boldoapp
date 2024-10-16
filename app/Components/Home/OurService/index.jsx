@@ -9,7 +9,7 @@ import {
 import AloneImage from "../../../public/images/alone.png";
 import TrustImage from "../../../public/images/trusts.png";
 import WalkImage from "../../../public/images/walking.png";
-import Line from "../../../public/images/line.png";
+// import Line from "../../../public/images/line.png";
 import Image from "next/image";
 
 const OurServices = [
@@ -69,7 +69,7 @@ const OurService = () => {
                         >
                           Explore page <span aria-hidden="true">→</span>
                         </a>
-                        <Image src={Line} className="mt-4" alt={"line"} />
+                        {/* <Image src={Line} className="mt-4" alt={"line"} /> */}
                       </p>
                     </div>
                   </div>
