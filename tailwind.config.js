@@ -10,6 +10,14 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        appdark: "#0A2640",
+        appWhite: "#FFFFFF",
+        appgreen: "#65E4A3",
+        appgray: "#777777",
+        appblack: "#000000",
+      },
+      fontFamily: {
+        manrope: ["Manrope", "sans-serif"],
       },
     },
   },
